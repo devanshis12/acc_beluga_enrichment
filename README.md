@@ -8,6 +8,7 @@ Functional Requirements
 - The device must be a floating object capable of engaging at least one beluga in varied and complex play.
 - To maintain novelty and sustained interest, it will incorporate dynamic features, such as different settings or customizable elements.
 - It will have embedded sensors to detect and record interaction data, allowing staff to monitor engagement levels over time.
+
 Non-Functional Requirements
 - The device must be completely safe for the belugas and their aquatic environment. 
 - It must be highly durable to withstand biting, tossing, and other vigorous interactions.
